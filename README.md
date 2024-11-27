@@ -1,6 +1,6 @@
-# **Example README File**
+# **GenAI x Gender Tech Hackathon Project**
 
-## **Project Title**
+## **Some Mother related stuff**
 
 Project Title is a description of the project and its purpose.
 
